@@ -7,7 +7,7 @@ A simple Python program that allows you to look up ASCII codes and print the cor
 To use this program, follow the steps below:
 
 1. Make sure you have Python installed on your system.
-2. Download the repository.
+2. Clone the repository.
 3. Open a terminal or command prompt.
 4. Navigate to the directory where the `asciiLookup.py` file is located.
 5. Run the program by executing the following command:
